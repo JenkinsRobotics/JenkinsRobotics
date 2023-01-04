@@ -1,69 +1,185 @@
-# [Start Bootstrap - Landing Page](https://startbootstrap.com/theme/landing-page/)
+## Jenkins Robotics
+# Jenkins Robotic Github Page
 
-[Landing Page](https://startbootstrap.com/theme/landing-page/) is a multipurpose landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+<!-- This is commented out. -->
 
-## Preview
+## Project Information
 
-[![Landing Page Preview](https://assets.startbootstrap.com/img/screenshots/themes/landing-page.png)](https://startbootstrap.github.io/startbootstrap-landing-page/)
+Project Status : <mark style="background-color: green"> &nbsp; Completed &nbsp;</mark>  
+Code Status : <mark style="background-color: green"> &nbsp;  Working &nbsp;</mark>  
+Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbsp;</mark>  
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)**
 
-## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-landing-page.svg)](https://www.npmjs.com/package/startbootstrap-landing-page)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-landing-page.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-landing-page)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-landing-page/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-landing-page)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-landing-page/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-landing-page?type=dev)
+&nbsp;
+## General Information
 
-## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
+ This is a simple database for the files used in our githube page website. The purpose of this page was to provide simple links to key websites like our youtube channel and our main website Jenkinsrobotics.com
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/landing-page/)
-* Install via npm: `npm i startbootstrap-landing-page`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-landing-page.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-landing-page)
 
-## Usage
 
-### Basic Usage
+&nbsp;
+## WATCH NOW ON YOUTUBE
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+ Watch Jenkins Robotics on youtube. 
 
-### Advanced Usage
+ &nbsp;
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+[![image alt text](http://img.youtube.com/vi/vxTgSj4ui3I/0.jpg)](https://youtu.be/vxTgSj4ui3I "YouTube")
 
-#### Gulp Tasks
+&nbsp;
+## Support
+Did this project help you? Consider supporting! 
 
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
+Consider Subscribing: https://bit.ly/2DgZyuq <br>
+Patreon ➔ https://www.patreon.com/JenkinsRobotics <br>
+Venmo ➔ https://venmo.com/u/JenkinsRobotics <br>
 
-You must have npm installed globally in order to use this build environment.
+---
+Below this line has not been updated since this project is on HOLD 
+---
 
-## Bugs and Issues
+&nbsp;
+## Table of Contents
+---
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/landing-page/).
+**[Project File Structure](#project-file-structure)**<br>
+**[Installation Instructions](#installation-instructions)**<br>
+**[Next Steps](#next-steps)**<br>
+**[Components](#components)**<br>
+**[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
+**[Links](#links)**<br>
 
-## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+&nbsp;
+## Project File Structure
+---
+The following is a breakdown of the different folders and the files contained in them:
 
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
+1. **CSS**
+    - *cover.css*
+    A file that contains html syle information
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
+    
+    &nbsp;
+2. **img**  
+   - *cover.jpg*
+    main background image for github page
+    
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+    &nbsp;
+3. **Vendor**
+    - Reference Files used for Github Pages  
 
-## Copyright and License
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+  
+
+    &nbsp;
+4. **Indext**
+   - *Pindex.html*
+     - Simple HTML page 
+    
+  
+      
+
+
+
+&nbsp;
+## Installation Instructions
+---
+No Installation instructions 
+
+
+<!-- This is commented out.  
+
+The following is a breakdown of the different folders and the files contained in them:
+
+
+```
+cd utils
+node build.js
+```
+
+
+Create a file with a `.zip` extension containing these files and directories:
+
+```
+manifest.json
+common/
+chrome/
+```
+
+
+Create a file with a `.xpi` extension containing these files and directories:
+
+```
+chrome.manifest
+install.rdf
+common/
+firefox/
+```
+
+ This is commented out. -->
+
+
+&nbsp;
+## Next Steps
+---
+This project is now completed. No next steps are planned. We can release bug fixes if found. 
+
+If you require assistant join our discord channel linked down below.
+
+
+
+&nbsp;
+## Components 
+---
+The following is a breakdown of key components for this project:
+&nbsp;
+| Item          | Function      | Cost  |
+| ------------- |:-------------:| -----:|
+| VS Code       | Text Editor   |   Free |
+
+
+&nbsp;
+## Notes and Miscellaneous
+---
+
+
+**ENJOY!!**
+
+That’s  all Folks. Hope this can help you in some way.
+... Consider Supporting Us Down Below. 
+
+&nbsp;
+## Links
+---
+
+SUPPORT US ► 
+
+Consider Subscribing: https://bit.ly/2DgZyuq <br>
+Patreon ➔ https://www.patreon.com/JenkinsRobotics  <br>
+Venmo ➔ https://venmo.com/u/JenkinsRobotics <br>
+
+
+FOLLOW US ►
+
+Discord ➔ https://discord.gg/sAnE5pRVyT <br>
+Patreon ➔ https://www.patreon.com/JenkinsRobotics <br>
+Twitter ➔ https://twitter.com/j <br>
+Instagram  ➔ https://www.instagram.com/jenkinsrobotics/ <br>
+Facebook ➔ https://www.facebook.com/jenkinsrobotics/  <br>
+GitHub  ➔ https://jenkinsrobotics.github.io <br>
+
+
+
+
+
+
+
+
+
+
+
